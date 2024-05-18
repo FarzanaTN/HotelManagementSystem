@@ -8,9 +8,9 @@ For Database Connection <br>
 Open the Conn class file in your project.<br>
 Locate the section where the connection parameters are defined.<br>
 Replace the placeholder values with your actual MySQL username and password.<br>
-
+<br>
 To ensure smooth execution and proper functionality of this project, please include the following JAR files in your project's dependencies:<br>
 mysql-connector-java-8.0.28.jar<br>
-jar rs2xml.jar<br>
+jar rs2xml.jar<br><br>
 You can download these JAR files from the official repositories or include them via your build tool.<br>
-After doing all these run the hotelManagementSystem.java file.
+After doing all these, run the hotelManagementSystem.java file.
