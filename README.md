@@ -15,3 +15,7 @@ jar rs2xml.jar<br><br>
 You can download these JAR files from the official repositories or include them via your build tool.<br><br>
 Run all the sql command from "sqlCommand.sql" in your MySQL workbench.<br><br>
 After doing all these, run the hotelManagementSystem.java file.
+
+<br>
+[Project Video]([URL](https://youtu.be/mLgXLwsEIng?si=WsxXMDnMKHvEnGdN))
+<br>
