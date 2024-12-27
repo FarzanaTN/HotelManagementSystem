@@ -16,6 +16,6 @@ You can download these JAR files from the official repositories or include them 
 Run all the sql command from "sqlCommand.sql" in your MySQL workbench.<br><br>
 After doing all these, run the hotelManagementSystem.java file.
 
-<br>
-[Project Video](https://youtu.be/mLgXLwsEIng?si=WsxXMDnMKHvEnGdN)
+<br><br>
+https://youtu.be/mLgXLwsEIng?si=WsxXMDnMKHvEnGdN
 <br>
